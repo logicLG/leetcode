@@ -17,7 +17,7 @@ import java.util.List;
  * 解释: 可拼接成的回文串为 ["battab","tabbat"]
  **/
 public class palindromePairs {
-    public List<List<Integer>> palindromePairs(String[] words) {
-
-    }
+//    public List<List<Integer>> palindromePairs(String[] words) {
+//        return  null;
+//    }
 }
